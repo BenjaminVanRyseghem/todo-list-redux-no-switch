@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Todo</title>
+	<link rel="stylesheet" href="./main.css">
+	<script src="./seat-manager.js"></script>
+</head>
+<body>
+<div id="main">
+	<!-- Flux goes here -->
+</div>
+<script>
+	let api = new Todo({
+		selectorId: "main"
+	});
+
+	api.render();
+</script>
+</body>
+</html>
