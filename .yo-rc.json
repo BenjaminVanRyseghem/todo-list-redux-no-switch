@@ -1,0 +1,9 @@
+{
+  "generator-weezevent-js": {
+    "promptValues": {
+      "authorName": "Benjamin Van Ryseghem",
+      "authorEmail": "benjamin.vanryseghem@gmail.com",
+      "authorUrl": "https://benjamin.vanryseghem.com"
+    }
+  }
+}
